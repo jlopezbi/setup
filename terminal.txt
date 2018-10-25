@@ -1,0 +1,8 @@
+- install brew
+  - install git
+  - install zsh
+  - install the_silver_searcher (ag search for Vim CtrlP plugin)
+  - install python
+- set git username and email
+- install vundle
+- git clone dotfiles & setup
